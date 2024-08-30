@@ -6,3 +6,5 @@ This project aims at improving how software development workflows are managed by
 
 
 [![Automated E2E Testing](https://github.com/ebejmo/social-media-client/actions/workflows/e2e-test.yml/badge.svg)](https://github.com/ebejmo/social-media-client/actions/workflows/e2e-test.yml)
+
+[![Automated Unit Testing](https://github.com/ebejmo/social-media-client/actions/workflows/unit-test.yml/badge.svg)](https://github.com/ebejmo/social-media-client/actions/workflows/unit-test.yml)
